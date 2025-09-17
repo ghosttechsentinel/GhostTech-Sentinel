@@ -1,0 +1,27 @@
+Built for control. Designed for Trust
+GhostTech Sentinel – Full Master Edition
+
+GhostTech Sentinel is a native, autonomous security suite designed for users who demand control, transparency, and zero third-party dependencies. Built entirely in PowerShell, it monitors your system for unauthorized access, VPN/proxy use, SSID/IP mismatches, and outbound threats—then enforces lockdown instantly.
+
+✅ SSID + IP geofencing  
+✅ VPN/Tor detection  
+✅ Silent background monitoring  
+✅ Real-time lockdown enforcement  
+✅ Email/SMS alert integration  
+✅ No external tools, no fluff
+
+Includes a branded launcher for easy setup and control. Designed for personal use, legally protected, and ready for deployment.
+
+📦 What You Get:
+- Full master script (`GhostTech_Sentinel.ps1`)
+- Setup wizard (`GhostTech_Launcher.ps1`)
+- Sample config file
+- README + LICENSE
+- Branded screenshots and visuals
+
+🛠️ Requirements:
+- Windows 10/11  
+- PowerShell 5.1+  
+- Admin privileges for Scheduled Task setup
+
+GhostTech Sentinel is lean, reactive, and principle-driven. You don’t just install it—you operationalize it. 
